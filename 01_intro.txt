@@ -1,0 +1,16 @@
+Subject: Home health nursing openings for {facility_name} residents
+{greeting}
+
+I'm {sender_name}, one of the owners of {company_name}, a family-run home health care agency serving {service_area}.
+
+We currently have openings on our schedule and are able to take new clients right away. For residents at {facility_name}, that can mean:
+
+- Skilled nursing visits (medication setup and management, wound care, assessments)
+- Support after a hospital or rehab stay to help prevent readmissions
+- Home health aide help with daily care
+- Clear, regular communication with your staff and the resident's family
+
+If you have residents who could use extra nursing support, or you'd like a reliable agency to call when a need comes up, I'd welcome a quick 10-minute call. I'm also happy to drop off referral information for your team.
+
+Thank you for the care you provide,
+{sender_name}

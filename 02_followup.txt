@@ -1,0 +1,12 @@
+Subject:
+{greeting}
+
+Just following up on my note from last week. We still have room on our schedule for new home health clients in {service_area}.
+
+When a resident at {facility_name} needs skilled nursing at home, after a hospital stay, a medication change, or a new wound, we can usually start within a few days, and we keep your team and the family updated throughout.
+
+Would it help if I sent over a one-page referral sheet, or is there a better person at {facility_name} for me to reach out to?
+
+Thanks,
+{sender_name}
+{phone}

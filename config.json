@@ -1,0 +1,30 @@
+{
+  "company": {
+    "name": "YOUR COMPANY NAME",
+    "sender_name": "Your Name",
+    "sender_title": "Co-Owner",
+    "phone": "(612) 555-0100",
+    "website": "www.yourcompany.com",
+    "mailing_address": "123 Main St, Suite 100, Bloomington, MN 55420",
+    "service_area": "the Twin Cities metro and surrounding suburbs"
+  },
+  "email": {
+    "username": "you@yourcompany.com",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 465,
+    "smtp_starttls": false,
+    "imap_host": "imap.gmail.com",
+    "imap_port": 993
+  },
+  "sending": {
+    "daily_limit": 12,
+    "min_delay_seconds": 60,
+    "max_delay_seconds": 180,
+    "weekdays_only": true
+  },
+  "sequence": [
+    { "template": "01_intro.txt", "wait_days": 0 },
+    { "template": "02_followup.txt", "wait_days": 4 },
+    { "template": "03_last_note.txt", "wait_days": 7 }
+  ]
+}

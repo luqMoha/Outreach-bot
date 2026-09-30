@@ -1,0 +1,9 @@
+Subject:
+{greeting}
+
+I don't want to fill up your inbox, so this will be my last note for now.
+
+If a resident at {facility_name} ever needs home health nursing, please keep {company_name} in mind. You can reach me directly at {phone}, and we'll do our best to get care started quickly.
+
+Wishing you and your team well,
+{sender_name}
